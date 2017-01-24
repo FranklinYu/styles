@@ -1,0 +1,17 @@
+@-moz-document domain('sourceforge.net') {
+.CodeMirror-lines {
+	font-family: monaco, "Lucida Console", monospace;
+}
+}
+
+@-moz-document domain('forum.userstyles.org') {
+#Form_Body {
+	font-family: monaco, "Lucida Console", monospace;
+}
+}
+
+@-moz-document domain('app.simplenote.com') {
+.note #txtarea {
+	font-family: monaco, "Lucida Console", monospace;
+}
+}
