@@ -4,7 +4,7 @@
 	}
 }
 
-@-moz-document domain('forum.userstyles.org') {
+@-moz-document domain('forum.userstyles.org'), domain('greasyfork.org') {
 	#Form_Body {
 		font-family: monospace;
 	}
