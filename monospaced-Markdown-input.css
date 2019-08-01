@@ -21,3 +21,13 @@
 		font-family: monospace;
 	}
 }
+
+@-moz-document domain('userstyles.org') {
+	.CodeMirror * {
+		font-family: inherit;
+	}
+
+	textarea {
+		font-family: monospace;
+	}
+}
