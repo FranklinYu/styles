@@ -16,12 +16,6 @@
 	}
 }
 
-@-moz-document domain('github.com') {
-	textarea {
-		font-family: monospace;
-	}
-}
-
 @-moz-document domain('myjetbrains.com') {
 	textarea.ring-input {
 		font-family: monospace;
